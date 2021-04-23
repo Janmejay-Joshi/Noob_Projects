@@ -1,6 +1,6 @@
 # Team 8
 
-## List of Github repository.
+## List of Github Repository.
 
 * [Vikash Kumar](https://github.com/Codefreak69/password-generator)
 

@@ -1,19 +1,15 @@
 # Team 4
 
-## Anishka :
-    https://github.com/theani20/pro1
+## List of Github Repository.
 
-## Yash : 
-    https://github.com/yashojha07/a-project.git
+* [Anishka](https://github.com/theani20/pro1)
 
-## Dhwani :
-    https://github.com/dhwani-gupta/week_0project1
+* [Yash](https://github.com/yashojha07/a-project.git)
 
-## Naman :
-    https://github.com/nmnsharma/words_continued
+* [Dhwani](https://github.com/dhwani-gupta/week_0project1)
 
-## Satyam :
-    https://github.com/satyamjha2652/satyamjha2652
+* [Naman](https://github.com/nmnsharma/words_continued)
 
-## Garvit :
-    https://github.com/garvitagrawal30/IamNoob.git
+* [Satyam](https://github.com/satyamjha2652/satyamjha2652)
+
+* [Garvit](https://github.com/garvitagrawal30/IamNoob.git)

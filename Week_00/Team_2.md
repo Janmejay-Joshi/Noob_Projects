@@ -1,21 +1,13 @@
 # Team warriyo
 
-## Sumit singh ghuraiya
+## List of Github Repository.
 
-     https://github.com/sumitsinghghuraiya/NoobccProjects.git
+* [Sumit Singh Ghuraiya](https://github.com/sumitsinghghuraiya/NoobccProjects)
 
-## Dheer jain
+* [Dheer Jain](https://github.com/dheer456/Noob-CC-Dheer)
 
-     https://github.com/dheer456/Noob-CC-Dheer
+* [Satvik Kaurav](https://github.com/satvikkaurav/NoobCC-Projects)
 
-## Satvik kaurav
+* [Mansi Tomar](https://github.com/mansi620/new-project)
 
-     https://github.com/satvikkaurav/NoobCC-Projects
-
-## Mansi Tomar
-
-     https://github.com/mansi620/new-project
-
-## Mohit wankhade
-
-     https://github.com/Mohit-Wankhade/first-project.git
+* [Mohit Wankhade](https://github.com/Mohit-Wankhade/first-project)
