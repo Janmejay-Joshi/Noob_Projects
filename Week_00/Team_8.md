@@ -6,6 +6,6 @@
 
 * [Nakul jain](https://github.com/nakul-jain14/CLOCK-UI-DESIGN)
 
-* [Rajiv Ranjan](https://github.com/rajiv-dotcom/new-project.git)
+* [Rajiv Ranjan](https://github.com/rajiv-dotcom/new-project)
 
-* [Megha](https://github.com/megha-ahirwar/Rose-.git)
+* [Megha](https://github.com/megha-ahirwar/Rose-)
